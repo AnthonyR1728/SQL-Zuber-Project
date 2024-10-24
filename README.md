@@ -76,6 +76,7 @@ The data is provided through several tables stored in a database. Below are the 
       - Sort the results by trips_amount in descending order.
 
 Example Query:
+(https://github.com/AnthonyR1728/SQL-Zuber-Project/blob/c45a0a83d13f5c879abd54a9ba1ab741c2ebb6a9/Zuber%20Project%20Task%201.JPG)
 
 
   2. Rides for Taxi Companies "Yellow" and "Blue" (Nov 1-7, 2017):
