@@ -76,6 +76,7 @@ The data is provided through several tables stored in a database. Below are the 
       - Sort the results by trips_amount in descending order.
 
 Example Query:
+![Zuber Project Task 1](https://github.com/user-attachments/assets/a22655a3-1c74-4367-88e5-c29638958b2f)
 
 
 
@@ -85,6 +86,7 @@ Example Query:
      - Group the results by the company_name field.
   
 Example Query:
+![Zuber Project Task 2](https://github.com/user-attachments/assets/bff07941-fc4a-4eb4-8e32-f39a822ec9a0)
 
 
   3. Top Companies vs Other (Nov 2017):
@@ -94,6 +96,7 @@ Example Query:
      - Name the field with taxi company names company. Sort the result in descending order by trips_amount.
   
 Example Query:
+![Zuber Project Task 3](https://github.com/user-attachments/assets/8d6d86a6-ebb3-4af7-9cbd-91d60d047c15)
 
 
 # Step 2: Analyze Ride Duration Based on Weather Conditions
@@ -101,7 +104,8 @@ Example Query:
   4. Retrieve the identifiers of the O'Hare and Loop neighborhoods  from the neighborhoods table.
 
 Example Query:
-![Zuber Project Task 1](https://github.com/user-attachments/assets/13112d2b-2b89-4baf-a9bc-da9966542271)
+![Zuber Project Task 4](https://github.com/user-attachments/assets/4357babb-0817-4750-b9e1-b6bed90376d7)
+
 
   
   5. For each hour, retrieve the weather condition records from the weather_records table.
@@ -111,6 +115,7 @@ Example Query:
      - The final table must include two fields: date and hour (ts) and weather_conditions.
 
 Example Query:
+![Zuber Project Task 5](https://github.com/user-attachments/assets/8cea8d5b-af9e-47f1-a703-236e541ead42)
 
 
   6. Retrieve from the trips table all the rides that started in the Loop (pickup_location_id: 50) on a Saturday and ended at O'Hare (dropoff_location_id: 63).
@@ -128,6 +133,7 @@ Example Query:
      - Sort by trip_id.
 
 Example Query:
+![Zuber Project Task 6](https://github.com/user-attachments/assets/75a43fb1-354f-4001-bf30-ded0a9c5681f)
 
 
 
